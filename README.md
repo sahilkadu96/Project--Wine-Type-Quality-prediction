@@ -42,6 +42,9 @@ To deploy this app run
 
 This will open the streamlit interface in browser & we are ready to go.
 
+## Streamlit interface
+![image](https://github.com/sahilkadu96/Project--Wine-Type-Quality-prediction/assets/106151994/e1ff3b14-8193-4da6-b5c0-875965eaf50f)
+
 ## 🛠 Skills
 Python, Machine Learning, Deep Learning, Tensorflow, Keras, Streamlit
 
